@@ -1,6 +1,6 @@
 ## Todo App
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Todo](https://github.com/sarthaklaptop/Todo/assets/101018384/1b3b53e4-d0fd-4b78-9410-b581157cddd9)](https://ttimelyy.vercel.app/)
 
 
 ### Built With
@@ -11,7 +11,6 @@
 ## Getting Started
 
 ### Prerequisites
-`
 
 ### Installation
 
@@ -25,7 +24,6 @@
    ```
 That's It
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -47,14 +45,6 @@ That's It
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -72,7 +62,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -83,12 +72,5 @@ Don't forget to give the project a star! Thanks again!
 Sarthak Patil - [Linkdin](https://www.linkedin.com/in/sarthakkpatil/)
 
 Portfolio Link: [Portfolio](https://sarthakk-portfolio.vercel.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
